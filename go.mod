@@ -32,10 +32,10 @@ require (
 	github.com/weaviate/contextionary v1.2.0
 	github.com/willf/bloom v2.0.3+incompatible
 	go.etcd.io/bbolt v1.3.6
-	golang.org/x/net v0.7.0
+	golang.org/x/net v0.17.0
 	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.6.0
+	golang.org/x/sys v0.13.0
 	gonum.org/v1/gonum v0.9.1
 	google.golang.org/api v0.85.0
 	google.golang.org/grpc v1.47.0
@@ -48,7 +48,7 @@ require (
 	github.com/coreos/go-oidc/v3 v3.4.0
 	github.com/tailor-inc/graphql v0.1.0
 	github.com/weaviate/sroar v0.0.0-20230210105426-26108af5465d
-	golang.org/x/text v0.7.0
+	golang.org/x/text v0.13.0
 )
 
 require (
@@ -120,7 +120,7 @@ require (
 	github.com/willf/bitset v1.1.11 // indirect
 	go.mongodb.org/mongo-driver v1.11.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
+	golang.org/x/crypto v0.14.0 // indirect
 	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/appengine v1.6.7 // indirect
